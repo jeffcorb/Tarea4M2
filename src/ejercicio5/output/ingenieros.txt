@@ -1,0 +1,70 @@
+Nombre: SELENA
+ Apellido: ARNAIZ
+ Edad: 25
+ Edificios Construidos: 5
+ Edificios Planificados: 29
+ Construstora: CONSTRUCTORA ARISTOTELES
+
+Nombre: LOLA
+ Apellido: SALCEDO
+ Edad: 35
+ Edificios Construidos: 5
+ Edificios Planificados: 32
+ Construstora: CONSTRUCTORA LUZ ROJA
+
+Nombre: EMELINA
+ Apellido: VAQUERO
+ Edad: 31
+ Edificios Construidos: 12
+ Edificios Planificados: 26
+ Construstora: CONSTRUCTORA ARISTOTELES
+
+Nombre: LORENZO
+ Apellido: REYES
+ Edad: 28
+ Edificios Construidos: 12
+ Edificios Planificados: 26
+ Construstora: CONSTRUCTORA LAPIZLAZULI
+
+Nombre: AUREA
+ Apellido: VICENS
+ Edad: 36
+ Edificios Construidos: 6
+ Edificios Planificados: 30
+ Construstora: CONSTRUCTORA LAPIZLAZULI
+
+Nombre: ELBA
+ Apellido: SEVILLANO
+ Edad: 28
+ Edificios Construidos: 12
+ Edificios Planificados: 26
+ Construstora: CONSTRUCTORA LUZ ROJA
+
+Nombre: MARIELA
+ Apellido: LUCENA
+ Edad: 30
+ Edificios Construidos: 5
+ Edificios Planificados: 32
+ Construstora: CONSTRUCTORA LUZ ROJA
+
+Nombre: EVANGELINA
+ Apellido: HUERTAS
+ Edad: 30
+ Edificios Construidos: 16
+ Edificios Planificados: 33
+ Construstora: CONSTRUCTORA LAPIZLAZULI
+
+Nombre: FLOR
+ Apellido: GARAY
+ Edad: 25
+ Edificios Construidos: 10
+ Edificios Planificados: 25
+ Construstora: CONSTRUCTORA ARISTOTELES
+
+Nombre: RODRIGO
+ Apellido: ECHEVARRIA
+ Edad: 34
+ Edificios Construidos: 10
+ Edificios Planificados: 26
+ Construstora: CONSTRUCTORA LAPIZLAZULI
+

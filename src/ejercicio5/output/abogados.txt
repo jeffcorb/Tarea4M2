@@ -1,0 +1,21 @@
+Nombre: OMAR
+ Apellido: TOLOSA
+ Edad: 27
+ Juicios Ganados: 20
+ Juicios Participados: 34
+ Notaria: NOTARIA OMEGA
+
+Nombre: MONICA
+ Apellido: GALLO
+ Edad: 37
+ Juicios Ganados: 9
+ Juicios Participados: 28
+ Notaria: NOTARIA GOMEZ
+
+Nombre: LAURA
+ Apellido: BAEZA
+ Edad: 26
+ Juicios Ganados: 17
+ Juicios Participados: 33
+ Notaria: NOTARIA SAITAMA
+

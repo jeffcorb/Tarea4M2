@@ -1,0 +1,20 @@
+Figura: Cono 
+Informacion: El cono cuenta con altura 4.81, radio 5.18 y generatriz 5.71
+Area: 177.17
+Volumen: 135.07 
+
+Figura: Cubo
+Informacion: El cubo cuenta con un lado: 3.0
+Area: 54.00
+Volumen: 27.00 
+
+Figura: Cilindro
+Informacion: El cilindro cuenta con altura 6.99 y radio 4.97 
+Area: 373.90
+Volumen: 543.28 
+
+Figura: esfera 
+Informacion: El cono cuenta con radio 4.15
+Area: 216.38
+Volumen: 299.30 
+
