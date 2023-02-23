@@ -1,0 +1,42 @@
+Nombre: METROID PRIME 4
+Epoca: 2014
+Precio: 57.65
+Duracion: 60
+Genero: ACCION
+Empresa: PLAY STATION
+
+Nombre: GRANBLUE FANTASY: RELINK
+Epoca: 2010
+Precio: 54.26
+Duracion: 58
+Genero: ACCION
+Empresa: PLAY STATION
+
+Nombre: GOD OF WAR: RAGNAROK
+Epoca: 2002
+Precio: 54.67
+Duracion: 16
+Genero: ACCION
+Empresa: PLAY STATION
+
+Nombre: THE CALLISTO PROTOCOL
+Epoca: 2005
+Precio: 62.64
+Duracion: 37
+Genero: ACCION
+Empresa: PLAY STATION
+
+Nombre: THE WITCHER 3: WILD HUNT
+Epoca: 2009
+Precio: 51.18
+Duracion: 44
+Genero: ACCION
+Empresa: PLAY STATION
+
+Nombre: MARIO BROS
+Epoca: 2017
+Precio: 51.96
+Duracion: 7
+Genero: COMEDIA
+Empresa: PLAY STATION
+

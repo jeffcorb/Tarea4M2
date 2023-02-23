@@ -1,0 +1,42 @@
+Nombre: ROSALVA
+ Apellido: COROMINAS
+ Edad: 36
+ Pacientes sin caries: 19
+ Pacientes Totales: 35
+ Consultorio: CENTRO DENTAL REYDENT
+
+Nombre: OFELIA
+ Apellido: CABEZAS
+ Edad: 27
+ Pacientes sin caries: 16
+ Pacientes Totales: 35
+ Consultorio: CENTRO DENTAL MARIDENT
+
+Nombre: DUILIO
+ Apellido: ARIZA
+ Edad: 39
+ Pacientes sin caries: 13
+ Pacientes Totales: 28
+ Consultorio: CENTRO DENTAL TULADENT
+
+Nombre: RITA
+ Apellido: DE VERDU
+ Edad: 38
+ Pacientes sin caries: 5
+ Pacientes Totales: 25
+ Consultorio: CENTRO DENTAL MARIDENT
+
+Nombre: JOSE ANGEL
+ Apellido: UGARTE
+ Edad: 33
+ Pacientes sin caries: 5
+ Pacientes Totales: 33
+ Consultorio: CENTRO DENTAL TULADENT
+
+Nombre: LISANDO
+ Apellido: CASAL
+ Edad: 27
+ Pacientes sin caries: 11
+ Pacientes Totales: 30
+ Consultorio: CENTRO DENTAL MARIDENT
+
