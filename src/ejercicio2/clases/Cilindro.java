@@ -25,5 +25,4 @@ public class Cilindro implements IFiguraEspacial {
     public double calcularArea() {
         return (2 * radio * Math.PI * (altura + radio));
     }
-
 }

@@ -19,7 +19,6 @@ public class Main {
         final var mapColores = crearColoresMap(listColores);
         generarData(listaFiguras, output, mapColores);
         FileManager.escribirFile("src/ejercicio1/output/output.txt", output);
-
     }
 
     private static Map<String, String> crearColoresMap(List<String> lista) {
@@ -49,7 +48,6 @@ public class Main {
                     final var triangulo = generarTriangulo(Double.parseDouble(array[3]), Double.parseDouble(array[4]), Double.parseDouble(array[5]),
                             colorRelleno, colorBorde, grosorLinea);
                     listaOutput.add(triangulo.colorearFigura());
-
                     break;
 
                 case "CUADRADO":

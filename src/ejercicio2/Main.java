@@ -26,6 +26,5 @@ public class Main {
         lista.add(GenerarMensajes.crearMensaje(esfera));
 
         FileManager.escribirFile("src/ejercicio2/output/output.txt", lista);
-
     }
 }
